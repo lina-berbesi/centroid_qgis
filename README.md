@@ -1,4 +1,4 @@
-**STEPS**
+**Creating the centroids in QGIS plus a CRS transformation over them**
 - Load polygon shapefile into QGIS
 - Go to Vector-> Geometry tools -> Polygon centroid and create a centroid point layer
 - Export the coordinates of the created centroid by going to Vector-> Geomtry tools -> Export/Add geometry columns
