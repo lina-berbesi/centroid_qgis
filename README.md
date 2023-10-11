@@ -13,4 +13,4 @@ longitude=x(transform(centroid($geometry),'EPSG:2193','EPSG:4326'))
 *For installing the pluggin go to Pluggins-> Manage and Install Pluggins -> search for 'MMQGIS'-> Install Pluggin. <br>
 *To export go to 'MMQGIS'->Import/Export->Attribute Export to CSV file (Browse to respective directory) <br>
 
-![qgis](consumption_generation/qgis_centoids.png)
+![qgis](https://github.com/strmtrooper/consumption_generation/blob/main/qgis_centroids.png)
